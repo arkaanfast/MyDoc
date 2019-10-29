@@ -7,7 +7,7 @@
 <title>PatientSignIn</title>
 </head>
 <body>
-	<form method="post" action="PatSignUp.jsp">
+	<form method="post" action="PatSignUp">
 		<table>
 		<tr><td>Full Name : </td><td><input name="name" type="text"></td></tr>
 		<tr><td>email : </td><td><input name="email" type="email"></td></tr>
